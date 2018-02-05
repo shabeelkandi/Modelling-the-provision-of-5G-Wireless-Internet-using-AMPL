@@ -1,0 +1,44 @@
+ FORTMP release version 3.02k, Feb 2006
+ License is valid till (y)2018:(m)12:(d)31.
+ OptiRisk Systems license manager: valid temporary license found
+ Please contact OptiRisk Systems providing the computer's HostID to receive
+ the definitive licence.
+  ASGNFM: MREQ=     98856(Byte), OFFset=   39321664(Byte)
+  
+  INPUT DATA STATISTICS:
+  PROBLEM NAME IS at7976  , MODEL NAME IS at7976
+  NUMBER OF ROWS (INCLUDING OBJECTIVE)=         135
+  NUMBER OF COLUMNS =                           221
+  NUMBER OF BOUNDED VAR. =                        0
+  NUMBER OF NONZEROS =                          620
+  AVERAGE  NONZEROS PER COLUMN =               2.81
+  RUN TIME OPTIONS:
+  MINIMIZE
+  MESSAGE LEVEL IS  1
+  BASIS REINVERSION AT EVERY  50 ITERATIONS
+  CRASH OPTION IS ON
+  CRASH OPTION IS ON
+  TOLERANCE VALUES:
+  DJ        =  1.00D-05
+  RHS       =  1.00D-05
+  ZERO      =  1.00D-15
+  PIVOT     =  1.00D-08
+  INVERT    =  1.00D-07
+  INTEGER   =  1.00D-05
+  THRESHOLD =  1.00D-02
+ TIME TAKEN FOR INPUT/SETUP =     0.00 SECS,  TOTAL SO FAR =     0.00 SECS
+ SCALING IN PROGRESS ...
+ SCALING COMPLETE
+ TIME TAKEN FOR SCALE/PRSLVE=     0.00 SECS,  TOTAL SO FAR =     0.00 SECS
+  CRASH(LTSF) ENDED.  VARIABLE TYPES:-  PLUS    BNDD     FIX    FREE
+     LOGICALS REMOVED FROM BASIS:-        22       0     108       0
+     STRUCTURALS ENTERED IN BASIS:-      129       1       0       0
+  CRASH(ART) ENDED:   1 PASSES:      0 ARTIFICIALS,       0 PIVOTED OUT
+ TIME TAKEN FOR CRASHING    =     0.00 SECS,  TOTAL SO FAR =     0.00 SECS
+  FEASIBLE BASIS REACHED AFTER ITERATION     24
+  Invert demand:  Obj = 5.10564      Suminf = 0.00000      ITER#     51
+ FORREST-TOMLIN ACTIVATED
+  Invert demand:  Obj = 1.70664      Suminf = 0.00000      ITER#     95
+  STATUS = 3  -- OPTIMUM SOLUTION FOUND.     1.70664      ITER#     95
+ TIME TAKEN FOR PRIMAL      =     0.00 SECS,  TOTAL SO FAR =     0.00 SECS
+ TIME TAKEN FOR OUTPUT      =     0.00 SECS,  TOTAL SO FAR =     0.00 SECS
